@@ -35,7 +35,7 @@ a:hover {
 
 @font-face {
     font-family: 'Montserrat';
-    src: url(/assets/fonts/Montserrat-VariableFont_wght.ttf);
+    src: url(../fonts/Montserrat-VariableFont_wght.ttf);
 }
 
 /* Section 1 */
